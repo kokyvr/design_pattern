@@ -1,0 +1,7 @@
+Dependencia : es una forma de relacion de clases , en la que una clase
+depende de otra.
+
+La clase IMPRESORA usa a la CLASE ARCHIVO
+
+Impresora esta asociada a Archivo
+La clase impresora conoce la clase Archivo , pero archivo desconoce que impresora exista
