@@ -1,0 +1,4 @@
+Agregacion : es un tipo de relacion dinamica,
+en donde el tiempo de vida del objeto
+incluido es independiente del que lo incluye.
+Es decir si se elimina la clase empresa el cliente sigue existiendo.
