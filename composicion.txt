@@ -1,0 +1,4 @@
+Composicion:
+Tipo de relacion estatica , el tipo de vida del objeto incluido esta condicionado por el
+tiempo de vida del objeto que lo incluye
+Si se borra la clase  Empresa se ha de borrar el Empleado.
