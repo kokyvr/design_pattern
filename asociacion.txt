@@ -1,0 +1,10 @@
+Asociacion : una entidad se construye a partir de otras
+
+Ejemplo 
+La clase Empleado depende la la clase EQUIPO
+
+La clase Empleado esta asociada a la clase equipo
+
+La clase empleado conoce la existencia de la clase equipo
+pero la clase equipo desconoce la clase empleado
+
