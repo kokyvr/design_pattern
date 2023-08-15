@@ -1,0 +1,4 @@
+herencia implica que una superclase o clase base comparte 
+sus atributos o funciones a una subclase o clase hija
+
+Palabra reservada para realizar herencia entre clases es "extends"
