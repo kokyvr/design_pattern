@@ -1,0 +1,4 @@
+Abstract Factory:
+Nos permite crear , mediante una interfaz conjuntos o familias de objetos
+(denominados productos) que depende mutuamente y todo esto sin especificar 
+cual es el objeto concreto
