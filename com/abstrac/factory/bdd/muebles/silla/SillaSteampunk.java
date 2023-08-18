@@ -1,4 +1,4 @@
-package com.abstrac.factory.muebles.silla;
+package com.abstrac.factory.bdd.muebles.silla;
 
 public class SillaSteampunk implements Silla{
     @Override

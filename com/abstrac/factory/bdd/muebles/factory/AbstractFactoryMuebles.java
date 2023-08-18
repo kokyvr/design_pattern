@@ -1,9 +1,9 @@
-package com.abstrac.factory.muebles.factory;
+package com.abstrac.factory.bdd.muebles.factory;
 
-import com.abstrac.factory.muebles.escritorio.Escritorio;
-import com.abstrac.factory.muebles.mesa.Mesa;
-import com.abstrac.factory.muebles.silla.Silla;
-import com.abstrac.factory.muebles.sofa.Sofa;
+import com.abstrac.factory.bdd.muebles.escritorio.Escritorio;
+import com.abstrac.factory.bdd.muebles.mesa.Mesa;
+import com.abstrac.factory.bdd.muebles.silla.Silla;
+import com.abstrac.factory.bdd.muebles.sofa.Sofa;
 
 public interface AbstractFactoryMuebles {
     Silla crearSilla(String parametros);

@@ -1,4 +1,4 @@
-package com.abstrac.factory.muebles.mesa;
+package com.abstrac.factory.bdd.muebles.mesa;
 
 public class MesaMinimalista implements Mesa{
     @Override

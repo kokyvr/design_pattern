@@ -1,4 +1,4 @@
-package com.abstrac.factory.muebles.factory;
+package com.abstrac.factory.bdd.muebles.factory;
 
 public class MueblesFactoryMaker {
     private MueblesFactoryMaker(){

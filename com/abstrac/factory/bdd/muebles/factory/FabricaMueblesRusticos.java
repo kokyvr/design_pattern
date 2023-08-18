@@ -1,13 +1,13 @@
-package com.abstrac.factory.muebles.factory;
+package com.abstrac.factory.bdd.muebles.factory;
 
-import com.abstrac.factory.muebles.escritorio.Escritorio;
-import com.abstrac.factory.muebles.escritorio.EscritorioRustico;
-import com.abstrac.factory.muebles.mesa.Mesa;
-import com.abstrac.factory.muebles.mesa.MesaRustica;
-import com.abstrac.factory.muebles.silla.Silla;
-import com.abstrac.factory.muebles.silla.SillaRustica;
-import com.abstrac.factory.muebles.sofa.Sofa;
-import com.abstrac.factory.muebles.sofa.SofaRustico;
+import com.abstrac.factory.bdd.muebles.escritorio.Escritorio;
+import com.abstrac.factory.bdd.muebles.escritorio.EscritorioRustico;
+import com.abstrac.factory.bdd.muebles.mesa.Mesa;
+import com.abstrac.factory.bdd.muebles.mesa.MesaRustica;
+import com.abstrac.factory.bdd.muebles.silla.Silla;
+import com.abstrac.factory.bdd.muebles.silla.SillaRustica;
+import com.abstrac.factory.bdd.muebles.sofa.Sofa;
+import com.abstrac.factory.bdd.muebles.sofa.SofaRustico;
 
 public class FabricaMueblesRusticos implements AbstractFactoryMuebles{
     @Override

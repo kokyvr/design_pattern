@@ -1,4 +1,4 @@
-package com.abstrac.factory.muebles.sofa;
+package com.abstrac.factory.bdd.muebles.sofa;
 
 public class SofaSteamPunk implements Sofa{
     @Override
